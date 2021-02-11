@@ -6,7 +6,7 @@ export default () =>(
     <p>Welcome to next.js!!</p>
     <hr/>
     <Link href="./other"><button>
-      go to other
+      go toooo other
       </button></Link>
   </Layout>
 );
